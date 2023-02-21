@@ -29,126 +29,46 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi, welcome to my website. I am a first-year Ph.D. student at DSLab@POSTECH, under the supervision of Professor Wook-Shin Han. 
+      My primary research interests are cardinality estimation, query optimization. 
+      Recently, I received my bachelor's degree in computer science and engineering and math (double-major) at POSTECH.
 education:
     title: Education
     info:
       - degree: B.S. of Computer Science and Engineering, B.S. of Math
         university: Pohang University of Science and Technology (POSTECH)
-        time: Feb 2019 &mdash; Feb 2023
+        time: Feb 2019 - Feb 2023
 
       - degree: High School Diploma
         university: Incheon Science High School (ISHS)
-        time: Feb 2017 &mdash; Feb 2019
+        time: Feb 2017 - Feb 2019
 experiences:
     title: Experiences
     info:
       - role: Research Intern - Advised by Prof. Wook-Shin Han
-        time: Sep, 2022 &mdash; Feb, 2023
+        time: Sep, 2022 - Feb, 2023
         company: POSTECH DataSystem LAB
       - role: Intern
-        time: June, 2022 &mdash; Sep, 2022
+        time: June, 2022 - Sep, 2022
         company: SK Hynix
 
 project: Making Learnable Query Optimizer
   role: First author
   duration: Sep. 2022 &mdash; Present
-  description: <ul class="resume-item-list"><li> Using ML based approach, make current commercial query optimizer learnable to produce much better query plan than before </li> <li> Planning to submit at SIGMOD 2023 </li>
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+  description: Using ML based approach, make current commercial query optimizer learnable to produce much better query plan than before Planning to submit at SIGMOD 2023
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C++ & C
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
